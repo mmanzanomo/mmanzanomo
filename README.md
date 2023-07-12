@@ -3,13 +3,22 @@
 
 <br>
 
-- 🔭 I’m currently working on **develop backend projects**
+### About Me :
 
-- 🌱 I’m currently learning **Java & Spring Framework.**
+- 🔭 I’m currently working on **develop backend projects**.
 
+- 🌱 I’m currently learning **Java & Spring Framework**.
+
+- 🎓 Studies for Computer Engineering at [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html)
+
+- :nerd_face: Always **learning new things**.
+
+- :thinking: I’m currently open for a new **job opportunity**.
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+
+### Languages and Tools:
+
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
